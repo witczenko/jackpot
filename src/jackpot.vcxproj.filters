@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Font.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="jackpot.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Roller.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="RollerTile.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="h">
+      <UniqueIdentifier>{0cf2a6da-9ed2-4943-8b77-555a8c141af7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{38df54f1-be9d-4f21-b044-c9b4a18e0262}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Font.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="JackPot.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="MsgDesc.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Roller.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="RollerTile.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>h</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
